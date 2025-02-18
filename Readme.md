@@ -35,10 +35,6 @@ This BMI (Body Mass Index) calculator is a web application built using HTML, CSS
 You can try out a live demo of the BMI Calculator here.
 https://fitness-bmi-calculator.netlify.app/
 
-## Screenshots
-
-![image](https://github.com/AbinandhMJ/BMI-Calculator/assets/99226172/71284f1c-88f8-417f-baeb-b976799192be)
-![image](https://github.com/AbinandhMJ/BMI-Calculator/assets/99226172/d4d2e28a-7a54-43fd-9024-78b8c4045bd7)
 
 To calculate a new BMI, simply update the height and weight fields and click the button again.
 
